@@ -1,0 +1,12 @@
+Room,Luminaire Type,Area Type,Length,Width,Angle,Radius,Base1,Base2,Height,Desired Flux,Apprx Ceil Ref,Apprx Wall Ref,Apprx Floor Ref,hc,hf
+Spa / Wellness Center (Upper),GE-RX-IND191,Rectangular,8.5,16.8,0,0,0,0,5,538,80,50,30,0,0.635
+Spa / Wellness Center (Lower),GE-RX-IND191,Rectangular,5.6199,20.6,0,0,0,0,5,538,80,50,30,0,0.635
+Sauna,Type14,Rectangular,6.2,3.7,0,0,0,0,3.5,323,80,50,30,0,0
+Toilet (Lavatory),Type15,Rectangular,2.1,1.8,0,0,0,0,3.5,323,80,50,70,0,0.7366
+Toilet (Cubicle),Type15,Rectangular,2.1,1.8,0,0,0,0,3.5,323,80,50,70,0,0.4318
+Observatory,GE-RX-IND191,Rectangular,14.1198,20.6,0,0,0,0,5,161,80,50,30,0,0
+Stairwell ,GE-RS4,Rectangular,14.2,6.5,0,0,0,0,5,215,80,50,30,0,0
+Corridor - 3 (Horizontal),GE-IND293,Rectangular,3.0002,27.3,0,0,0,0,5,215,80,50,30,0,0
+Utility - 3 ,Type14,Rectangular,6.7,4.6311,0,0,0,0,3.5,215,80,50,70,0,0
+Water Reservoir / Catchment Facility,Type14,Circular,0,0,360,4.8,0,0,5,215,80,50,70,0,0
+Ventilation Facility,Type14,Semi-circular,0,0,270,4.8,0,0,5,215,80,50,70,0,0

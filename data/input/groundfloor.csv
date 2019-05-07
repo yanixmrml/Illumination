@@ -1,0 +1,40 @@
+Room,Luminaire Type,Area Type,Length,Width,Angle,Radius,Base1,Base2,Height,Desired Flux,Apprx Ceil Ref,Apprx Wall Ref,Apprx Floor Ref,hc,hf
+Living (Upper),GE-RX-IND191,Rectangular,14,13.9,0,0,0,0,5,753,80,50,30,0,0.76
+Living (Lower),GE-RX-IND191,Trapezoidal,4.7301,0,0,0,10.4619,5,5,753,80,50,30,0,0.76
+Toilet - 1 (Lavatory),Type15,Rectangular,3,6.5,0,0,0,0,3.5,323,80,50,70,0,0.7366
+Toilet - 1 (Cubicle),Type15,Rectangular,1.5,2.1,0,0,0,0,3.5,323,80,50,70,0,0.4318
+Storage - 1,GE-IND293,Rectangular,9.2,6.5,0,0,0,0,5,215,80,50,30,0,0
+Office (Right),GE-Wide-ET22XB3,Rectangular,14,2.7,0,0,0,0,5,538,80,50,30,0,0.76
+Office (Left),GE-Wide-ET22XB3,Rectangular,11.8,3.8,0,0,0,0,5,2153,80,50,30,0,0.6731
+Stairwell ,GE-RS4,Rectangular,14.2,6.5,0,0,0,0,5,215,80,50,30,0,0
+House Staff Quarter (Upper),Type14,Rectangular,7.2,5,0,0,0,0,3.5,323,80,50,30,0,0.635
+House Staff Quarter (Lower),Type14,Rectangular,6.8,2.9,0,0,0,0,3.5,538,80,50,30,0,0.76
+HSQ Closet,Type13,Rectangular,2.5,2,0,0,0,0,3.5,323,80,50,30,0,0
+HSQ Bath,Type15,Rectangular,2,2,0,0,0,0,3.5,215,80,50,70,0,0
+HSQ Toilet,Type15,Rectangular,2,2,0,0,0,0,3.5,323,80,50,70,0,0.7366
+Gallery,GE-RX-IND191,Rectangular,17.4,14,0,0,0,0,5,1076,80,50,30,0,0.76
+Breakfast Room,GE-Wide-ET22XB3,Semi-circular,0,0,180,11,0,0,5,323,80,50,30,0,0.76
+Foyer (Uper),GE-RX-IND191,Rectangular,8.9292,20.4,0,0,0,0,10,323,80,50,30,0,0.4826
+Foyer (Lower),GE-RX-IND191,Semi-circular,0,0,180,11,0,0,10,323,80,50,30,0,0.4826
+Elevator - 1,Type15,Rectangular,2.5,2.5,0,0,0,0,5,215,80,50,30,0,0
+Utility - 1,Type14,Rectangular,4,2.5,0,0,0,0,3.5,215,80,50,70,0,0
+Music Room (Upper),GE-IND334,Rectangular,6.9,3.8,0,0,0,0,5,323,80,50,30,0,0.76
+Music Room (Lower),GE-IND334,Rectangular,7.1,6.5,0,0,0,0,5,323,80,50,30,0,0.76
+Dining (Upper),GE-RX-IND191,Rectangular,2.2,10.1,0,0,0,0,5,323,80,50,30,0,0.76
+Dining (Center),GE-RX-IND191,Rectangular,11.8,13.9,0,0,0,0,5,323,80,50,30,0,0.76
+Dining (Lower),GE-RX-IND191,Trapezoidal,4.7301,0,0,0,10.4619,5,5,323,80,50,30,0,0.76
+Pantry,GE-IND293,Rectangular,7,5,0,0,0,0,3.5,323,80,50,70,0,0
+Cold Cellar,GE-IND293,Rectangular,7,5,0,0,0,0,3.5,323,80,50,70,0,0
+Kitchen (Upper),GE-Wide-ET22XB3,Rectangular,6.7997,15.4,0,0,0,0,3.5,1615,80,50,70,0,0.7366
+Kitchen (Lower),GE-Wide-ET22XB3,Rectangular,7.2,5,0,0,0,0,3.5,538,80,50,70,0,0.76
+Scullary (Left),GE-Wide-ET22XB3,Rectangular,14,1.2,0,0,0,0,3.5,1615,80,50,70,0,0.7366
+Scullary (Right),GE-Wide-ET22XB3,Rectangular,11.8,3.8,0,0,0,0,3.5,538,80,50,70,0,0
+Toilet (Lavatory),Type15,Rectangular,2.1,1.8,0,0,0,0,3.5,323,80,50,70,0,0.7366
+Toilet (Cubicle),Type15,Rectangular,2.1,1.8,0,0,0,0,3.5,323,80,50,70,0,0.4318
+Corridor - 1 (Horizontal),GE-IND293,Rectangular,3,27.5,0,0,0,0,5,215,80,50,30,0,0
+Corridor - 1 (Vertical),GE-IND293,Rectangular,23.2708,3,0,0,0,0,5,215,80,50,30,0,0
+Corridor - 1 (Center),GE-IND293,Rectangular,5.4708,14.4,0,0,0,0,5,215,80,50,30,0,0.4826
+Bar,GE-RS4,Rectangular,17.605,4.1025,0,0,0,0,5,108,80,50,30,0,0.76
+Garage Entry,Type4,Rectangular,22,6.7,0,0,0,0,5,538,80,50,20,0,0
+Storage - 1b,Type13,Rectangular,3,6.7,0,0,0,0,3.5,108,80,50,70,0,0
+Power House,GE-IND293,Rectangular,6,6.7,0,0,0,0,5,215,80,50,70,0,0

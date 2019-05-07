@@ -1,0 +1,38 @@
+Room,Luminaire Type,Area Type,Length,Width,Angle,Radius,Base1,Base2,Height,Desired Flux,Apprx Ceil Ref,Apprx Wall Ref,Apprx Floor Ref,hc,hf
+Bedroom (Upper),GE-RX-IND191,Rectangular,7.3,3.4,0,0,0,0,5,538,80,50,30,0,0.635
+Bedroom (Lower),GE-RX-IND191,Rectangular,6.7,6.5,0,0,0,0,5,323,80,50,30,0,0.635
+Bdrm Closet,Type14,Rectangular,3,3,0,0,0,0,5,538,80,50,30,0,0
+Bdrm Bath,Type15,Rectangular,2,3,0,0,0,0,3.5,215,80,50,70,0,0
+Bdrm Toilet,Type15,Rectangular,2,3,0,0,0,0,3.5,323,80,50,70,0,0.7366
+Master Bdrm (Upper),GE-RX-IND191,Rectangular,14.1,9.8,0,0,0,0,5,538,80,50,30,0,0.635
+Master Bdrm (Lower),GE-RX-IND191,Trapezoidal,4.7301,0,0,0,10.4619,5,5,323,80,50,30,0,0.635
+Master Closet,Type14,Rectangular,6.8,4,0,0,0,0,5,538,80,50,30,0,0
+Master Bath,Type15,Rectangular,5,4,0,0,0,0,3.5,215,80,50,70,0,0
+Master Toilet,Type15,Rectangular,2,4,0,0,0,0,3.5,323,80,50,70,0,0.7366
+Guestroom (Upper),GE-RX-IND191,Rectangular,7.2,5,0,0,0,0,3.5,323,80,50,30,0,0.4572
+Guestroom (Lower),GE-RX-IND191,Rectangular,6.8,2.9,0,0,0,0,3.5,538,80,50,30,0,0.4572
+Guest Closet,Type14,Rectangular,2.5,2,0,0,0,0,3.5,323,80,50,30,0,0
+Guest Bath,Type15,Rectangular,2,2,0,0,0,0,3.5,215,80,50,70,0,0
+Guest Toilet,Type15,Rectangular,2,2,0,0,0,0,3.5,323,80,50,70,0,0.7366
+Multimedia Room / Theater,GE-RS4,Rectangular,17.4,14,0,0,0,0,5,161,80,50,30,0,0
+Game Room,GE-Med-ET22XA3,Rectangular,14,10.2,0,0,0,0,5,538,80,50,30,0,0.76
+Gym / Fitness Center (Upper),GE-Med-ET22XA3,Rectangular,9.6,10.2,0,0,0,0,3.5,323,80,50,30,0,0
+Gym / Fitness Center (Lower),GE-Med-ET22XA3,Rectangular,4.4,6.4,0,0,0,0,3.5,323,80,50,30,0,0
+Gym Toilet (Lavatory),Type15,Rectangular,4.3,1.8,0,0,0,0,3.5,323,80,50,70,0,0.7366
+Gym Bath,Type15,Rectangular,2.1,1.8,0,0,0,0,3.5,215,80,50,70,0,0
+Gym Toilet (Cubicle),Type15,Rectangular,2.1,1.8,0,0,0,0,3.5,215,80,50,70,0,0.4318
+Elevator - 2,Type15,Rectangular,2.5,2.5,0,0,0,0,5,215,80,50,30,0,0
+Utility - 2,Type14,Rectangular,4,2.5,0,0,0,0,3.5,215,80,50,70,0,0
+Nook,GE-Med-ET22XA3,Rectangular,6.7,3.8,0,0,0,0,3.5,753,80,50,30,0,0.4826
+Prayer Room,GE-RS4,Rectangular,7.1,6.5,0,0,0,0,3.5,215,80,50,30,0,0
+Library (Upper),GE-Wide-ET22XB3,Rectangular,14,13.9,0,0,0,0,5,753,80,50,30,0,0.76
+Library (Lower),GE-Wide-ET22XB3,Trapezoidal,4.7301,0,0,0,10.4619,5,5,753,80,50,30,0,0.76
+Family Room (Upper),GE-IND293,Rectangular,2.2,2.7,0,0,0,0,3.5,538,80,50,30,0,0.76
+Family Room (Lower),GE-IND293,Rectangular,11.8,6.5,0,0,0,0,3.5,538,80,50,30,0,0.76
+Toilet (Lavatory),Type15,Rectangular,2.1,1.8,0,0,0,0,3.5,323,80,50,70,0,0.7366
+Toilet (Cubicle),Type15,Rectangular,2.1,1.8,0,0,0,0,3.5,323,80,50,70,0,0.4318
+Stairwell ,GE-RS4,Rectangular,14.2,6.5,0,0,0,0,5,215,80,50,30,0,0
+Corridor - 2 (Horizontal),GE-IND293,Rectangular,3,27.5,0,0,0,0,5,215,80,50,30,0,0
+Corridor - 2 (Vertical),GE-IND293,Rectangular,23.1708,3,0,0,0,0,5,215,80,50,30,0,0
+Corridor - 2 (Center),GE-IND293,Rectangular,5.5708,14.4,0,0,0,0,5,215,80,50,30,0,0.4826
+Balcony,GE-RX-IND191,Semi-circular,0,0,180,11.4,0,0,5,215,80,50,30,0,0

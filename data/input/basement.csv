@@ -1,0 +1,27 @@
+Room,Luminaire Type,Area Type,Length,Width,Angle,Radius,Base1,Base2,Height,Desired Flux,Apprx Ceil Ref,Apprx Wall Ref,Apprx Floor Ref,hc,hf
+Garage (Lower 1),Type4,Rectangular,5.4972,39.4902,0,0,0,0,4,215,80,50,20,0,0
+Garage (Lower 2),Type4,Rectangular,8.5167,35.6304,0,0,0,0,4,215,80,50,20,0,0
+Garage (Right),GE-IND293,Rectangular,3.3862,8.8614,0,0,0,0,4,108,80,50,20,0,0
+Garage (Left),GE-IND293,Rectangular,3.3862,6.513,0,0,0,0,4,108,80,50,20,0,0
+Garage (Upper),Type4,Rectangular,14,39.4902,0,0,0,0,4,215,80,50,20,0,0
+Garage Entry (Right),Type4,Semi-circular,9.387,4.3516,90,2.8719,0,0,4,538,80,50,20,0,0
+Garage Entry (Left),Type4,Rectangular,9.387,6.7,0,0,0,0,4,538,80,50,20,0,0
+Storage - B,Type13,Rectangular,2.9862,23.7288,0,0,0,0,4,54,80,50,30,0,0
+Stock Room,Type13,Rectangular,8.5167,3.6598,0,0,0,0,4,54,80,50,30,0,0
+Control / Security Room (Upper),GE-IND334,Rectangular,10.2,8.2098,0,0,0,0,3.5,538,80,50,70,0,0.76
+Control / Security Room (Lower),GE-IND293,Rectangular,3.8,6.0098,0,0,0,0,3.5,538,80,50,70,0,0.76
+Sports Room,GE-IND293,Rectangular,14,20.6002,0,0,0,0,4,538,80,50,30,0,0
+Root Cellar,Type13,Rectangular,14,5,0,0,0,0,4,323,80,50,30,0,0
+Electrical / Mechanical Room (Upper),GE-IND293,Rectangular,6.9,3.0098,0,0,0,0,4,215,80,50,70,0,0
+Electrical / Mechanical Room (Lower),GE-IND293,Rectangular,7.1,5.7098,0,0,0,0,4,215,80,50,70,0,0
+Elevator - B ,Type15,Rectangular,2.5,2.5,0,0,0,0,4,215,80,50,30,0,0
+Utility - B,Type14,Rectangular,4,2.5,0,0,0,0,4,215,80,50,30,0,0
+Wine Cellar,Type13,Rectangular,14,5,0,0,0,0,4,323,80,50,30,0,0
+Laboratory (Upper),GE-IND334,Rectangular,11.8,14.2,0,0,0,0,4,753,80,50,30,0,0.76
+Laboratory (Lower),GE-IND334,Rectangular,2.2,10.4,0,0,0,0,4,753,80,50,30,0,0.76
+Laundry Room (Upper),Type14,Rectangular,3.8,2.8,0,0,0,0,3.5,538,80,50,70,0,0
+Laundry Room (Lower),Type14,Rectangular,10.2,5,0,0,0,0,3.5,538,80,50,70,0,0
+Stairwell ,GE-RS4,Rectangular,14.2,6.5,0,0,0,0,4,215,80,50,30,0,0
+Corridor - B,GE-IND293,Rectangular,3,35.7098,0,0,0,0,4,215,80,50,30,0,0
+Toilet (Lavatory),Type15,Rectangular,1.8,2.1,0,0,0,0,3.5,323,80,50,70,0,0.7366
+Toilet (Cubicle),Type15,Rectangular,1.8,2.1,0,0,0,0,3.5,215,80,50,70,0,0.4318
